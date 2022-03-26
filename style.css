@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Shojumaru&display=swap");
+
+* {
+  width: 0px;
+  height: 0px;
+  font-family: "Shojumaru", cursive;
+}
+
+a {
+  text-decoration: none;
+}
